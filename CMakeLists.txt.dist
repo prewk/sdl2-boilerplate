@@ -20,7 +20,6 @@ endif()
 
 find_package(SDL2 REQUIRED)
 include_directories(${SDL2_INCLUDE_DIR})
-include_directories(include)
 
 
 add_executable(MyProject src/main.cpp)
