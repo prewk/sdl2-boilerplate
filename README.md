@@ -16,11 +16,9 @@ CMake: `brew install cmake`
 
 `cp CMakeLists.txt.dist CMakeLists.txt`
 
-Change `MyProject` in `CMakeLists.txt` to your project name.
-
+Change all `MyProject` occurrences in `CMakeLists.txt` to your project name.
 
 # Build & compile
-
 
 `cd build`
 
